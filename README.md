@@ -1,5 +1,4 @@
 # study-junit
--------------------
 
 
 ### 기존 JUnit의 assertThat 기능이 deprecated 되어 assertj의 assertThat을 사용
